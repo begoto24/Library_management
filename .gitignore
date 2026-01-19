@@ -1,0 +1,26 @@
+# Maven
+target/
+lib/target/
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Variables d'environnement
+.env
+
+# Git
+.git/
